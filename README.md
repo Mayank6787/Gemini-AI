@@ -10,4 +10,7 @@ By working on this project, I not only improved my ability to integrate APIs int
 
 
 # For live demo visit 
-[MyChatBot]().
+[MyChatBot](https://gemini-ai-self.vercel.app/).
+
+
+# Live demo (https://gemini-ai-self.vercel.app/)
