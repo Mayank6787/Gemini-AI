@@ -186,3 +186,24 @@
   line-height: 1.5;
   font-weight: 350;
 }
+
+@media (max-width: 600px) {
+  .main-bottom input {
+    flex: none;
+    width: 150px;
+  }
+
+  .main-bottom img {
+    width: 20px;
+  }
+  .search-box {
+    padding: 10px 5px;
+    margin-bottom: 25px;
+  }
+  .search-box div {
+    gap: 5px;
+  }
+  .bottom-info {
+    display: none;
+  }
+}
