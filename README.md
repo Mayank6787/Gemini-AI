@@ -12,5 +12,6 @@ By working on this project, I not only improved my ability to integrate APIs int
 # For live demo visit 
 [MyChatBot](https://gemini-ai-self.vercel.app/).
 
+* [![React][React.js]][React-url]
 
 # Live demo (https://gemini-ai-self.vercel.app/)
