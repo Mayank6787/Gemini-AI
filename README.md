@@ -20,7 +20,7 @@ By working on this project, I not only improved my ability to integrate APIs int
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://example.com](https://aistudio.google.com/app/prompts/new_chat)
 2. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
@@ -38,6 +38,15 @@ _Below is an example of how you can instruct your audience on installing and set
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
    ```
+
+
+## Contact
+
+Mayank singh - [@twitter](https://x.com/Mayanks17848370) - mayanksingh6787@gmail.com
+
+Project Link: [https://github.com/Mayank6787/Gemini-AI](https://github.com/Mayank6787/Gemini-AI)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
